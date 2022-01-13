@@ -1,6 +1,6 @@
 {
-  "name": "@docusaurus/theme-classic",
-  "version": "2.0.0-beta.14",
+  "name": "docusaurus-theme-bot",
+  "version": "0.0.0",
   "description": "Classic theme for Docusaurus",
   "main": "lib/index.js",
   "types": "src/theme-classic.d.ts",
@@ -9,8 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/facebook/docusaurus.git",
-    "directory": "packages/docusaurus-theme-classic"
+    "url": "https://github.com/botx/docusaurus-theme-bot.git",
   },
   "license": "MIT",
   "scripts": {
@@ -60,6 +59,5 @@
   },
   "engines": {
     "node": ">=14"
-  },
-  "gitHead": "c4824a8937d8f1aa0806667749cbc74058e2b294"
+  }
 }
